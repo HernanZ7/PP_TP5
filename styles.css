@@ -81,7 +81,6 @@ body{
     margin: 10px;
 }
 
-/*Ejercicio 4: Integracion de Google Fonts*/
 .ocultar{
     background-color: green;
     padding: 10px;
@@ -95,6 +94,7 @@ body{
     display: inline;
 }
 
+/*Ejercicio 4: Integracion de Google Fonts*/
 .google-font {
     font-family: "My Soul", cursive;
     font-weight: 400;
